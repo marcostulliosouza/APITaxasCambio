@@ -29,4 +29,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema, ou deseja me
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [`LICENSE`](https://github.com/marcostulliosouza/APITaxasCambio/blob/master/LICENSE) para obter mais detalhes.
